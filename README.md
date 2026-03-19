@@ -45,6 +45,11 @@ If after reading the guide you are still experiencing issues, feel free to join 
 - Cleverbot integration (talk to Red and she talks back)
 - Ban sync
 - Casino
+- Reaction roles
+- Slow Mode
+- AniList
+- And much, much more!
+
 
 # License
 
@@ -72,7 +77,3 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
-- Reaction roles
-- Slow Mode
-- AniList
-- And much, much more!
